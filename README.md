@@ -397,6 +397,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp)** - ComputerVision-based 🪄 sorcery of image recognition and editing tools for AI assistants.
 - **[IMAP MCP](https://github.com/dominik1001/imap-mcp)** - 📧 An IMAP Model Context Protocol (MCP) server to expose IMAP operations as tools for AI assistants.
 - **[Instagram DMs](https://github.com/trypeggy/instagram_dm_mcp)** - Send Instagram DMs via your LLM
+- **[Inkmap](https://github.com/zhiyuanvision-lang/InkMap)** 📇 - Interactive two-way Markdown mind map (Markmap) and Mermaid flowchart editor / MCP App with byte-preserving `.md` write-back, KaTeX math, and PNG/SVG export.
 - **[interactive-mcp](https://github.com/ttommyth/interactive-mcp)** 📇 - Enables interactive LLM workflows by adding local user prompts and chat capabilities directly into the MCP loop.
 - **[irulescan MCP](https://github.com/simonkowallik/irulescan?tab=readme-ov-file#mcp-server)** - :shield: MCP enabled code security analyzer for F5 iRules
 - **[aymericzip/intlayer](https://github.com/aymericzip/intlayer)** - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, versioned docs.
