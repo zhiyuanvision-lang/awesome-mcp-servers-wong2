@@ -396,6 +396,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Imagician](https://github.com/flowy11/imagician)** - A MCP server for comprehensive image editing operations including resizing, format conversion, cropping, compression, and more based on sharp.
 - **[ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp)** - ComputerVision-based 🪄 sorcery of image recognition and editing tools for AI assistants.
 - **[IMAP MCP](https://github.com/dominik1001/imap-mcp)** - 📧 An IMAP Model Context Protocol (MCP) server to expose IMAP operations as tools for AI assistants.
+- **[Inkmap](https://github.com/zhiyuanvision-lang/InkMap)** - Interactive two-way editable Markdown mind map (Markmap alternative) and inline Mermaid flowchart MCP App for Claude Desktop, Cursor, VS Code, Codex, and Antigravity.
 - **[Instagram DMs](https://github.com/trypeggy/instagram_dm_mcp)** - Send Instagram DMs via your LLM
 - **[interactive-mcp](https://github.com/ttommyth/interactive-mcp)** 📇 - Enables interactive LLM workflows by adding local user prompts and chat capabilities directly into the MCP loop.
 - **[irulescan MCP](https://github.com/simonkowallik/irulescan?tab=readme-ov-file#mcp-server)** - :shield: MCP enabled code security analyzer for F5 iRules
